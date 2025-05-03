@@ -67,3 +67,7 @@ matches:
   - trigger: ":gpt-moe"
     replace: >
       請以專家角度 針對此主題提出3個能挑戰現有觀念 啟發深度思考的關鍵問題。
+
+  - trigger: ":tc"
+    replace: >
+      用繁體中文回答
