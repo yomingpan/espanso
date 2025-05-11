@@ -1,0 +1,27 @@
+matches:
+  - trigger: ":km-FAST"
+    replace: >
+      FAST學習法: 立下目標: 暖機熟悉字，舊知識連結新知，建構結構。；連結目標: 思考新知識之間關係，sketch概念圖；確認理解: 用自己的方式任何形式的幫助表達；結構輸出: 整理幫助自己複習的結構。
+  
+  - trigger: ":km-3c"
+    replace: >
+      麥肯錫 3c；Clear Concise Compelling
+  
+  - trigger: ":km-grai"
+    replace: >
+      目標：明確定義特定時期或項目的目標或期望。
+
+      結果：評估實際結果與目標的差距，並找出差異點，而不進行責備。
+
+      分析：從多個角度（如流程、人員或技術）探討成功或失敗的原因。
+      
+      洞察：從分析中識別模式，確定需要保持、改進、停止或放棄的行動。
+
+  - trigger: ":km-odyssey"
+    replace: >
+      A計畫（As usual）：目前正在做的或想做的事。
+
+      B計畫（Breakthrough）：當A計畫不可行時的替代方案。
+      
+      C計畫（Creative & Carefree）：不考慮任何限制的理想生活計畫。
+  

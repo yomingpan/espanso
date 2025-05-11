@@ -1,0 +1,7 @@
+matches:
+  - trigger: ":ll-CloseProjectUserEmail"
+    replace: >
+      frame: Greeting & Context Setting, HL Immediate concern, acknowledge importance and porposing solutions, reqesting feedback and collacboration, closing & Appreciation
+  - trigger: ":ll-ThanksCollaborationToManger"
+    replace: >
+      frame: 表達感謝；具體項目&貢獻(proejct背景/貢獻/具體事蹟)；總結貢獻與影響(美光價值)；再次感謝
